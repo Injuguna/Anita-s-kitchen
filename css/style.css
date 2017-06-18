@@ -1,1 +1,193 @@
+body {
+  font-family: 'Tangerine', serif;
+  font-size: 36px;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  background: #F15A29;;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container11 {
+  margin-left: 50px;
+  margin-right: 50px;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 0px;
+  ;
+}
+
+..happy1 {
+  border-right: 1px solid black;
+}
+
+.col-md-3:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
+}
+
+.container1 {
+  width: 100%;
+}
+
+.container2 {
+  height: 100%;
+}
+
+.barrier {
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  border: 10px;
+  border-radius: 1px;
+}
+
+.logo {
+  margin-left: 560px;
+  margin-top: 90px;
+    color: aqua;
+}
+
+.small-logo {
+  margin-left: 450px;
+  margin-top: 80px;
+}
+
+.social-media {
+  margin-left: 500px;
+  margin-top: 25px;
+}
+
+.text {
+  margin-top: -40px;
+}
+
+.form-group {
+  margin-left: 300px;
+  margin-top: 70px;
+}
+
+.square {
+  margin: 10px;
+  border: 2px solid grey;
+  padding: 9px;
+  background-color: white;
+}
+
+.span {
+  color: white;
+}
+
+.span1 {
+  : #F15A29;
+}
+
+.jumbotron1 {
+  background-color: #F15A29;
+}
+
+.jumbotron2 {
+  background-color: #F15A29;
+}
+
+.jumbotron3 {
+  background-color: white;
+}
+
+.jumbotron4 {
+  margin-bottom: 0px;
+  background-image: url(../images/foodsBg.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
  
+}
+
+.jumbotron0 {
+  margin-bottom: 0px;
+  background-image: url(../images/subscribe.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+#flex {
+  display: flex;
+  flex-direction: row;
+}
+
+#lex {
+  display: flex;
+  flex-direction: row;
+}
+
+.breakfast, .lunch, .dinner {
+  min-height: 190px;
+}
+
+.breakfast {
+  background-image: url("../images/breakfast.jpg");
+  height: 100%;
+}
+
+.lunch {
+  background-image: url("../images/lunch.jpg");
+}
+
+.dinner {
+  background-image: url("../images/dinner.jpg");
+}
+
+.left {
+  max-height: 150px;
+  min-height: 73px;
+  height: 50%;
+  background-color: #F15A29;
+}
+
+.up {
+  max-height: 75px;
+  min-height: 35px;
+  height: 50%;
+  background-color: white;
+}
+
+header {
+  width: 100%;
+  background: #F15A29;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  tom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  ight: 60px;
+  border-bottom: 1px solid #dddddd;
+  tom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+} 
